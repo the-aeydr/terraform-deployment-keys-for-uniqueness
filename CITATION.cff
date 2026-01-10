@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-31
+title: "Deployment keys for unique deployments Terraform deployments"
+url: "https://writing.aeydr.dev/notes/terraform-deployment-keys-for-uniqueness"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Deployment keys for unique deployments Terraform deployments"
+  month: 07
+  year: 2023

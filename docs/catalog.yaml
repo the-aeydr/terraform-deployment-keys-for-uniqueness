@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-deployment-keys-for-uniqueness
+  description: Unique keys for identifying resources with Terraform deployments
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Deployment keys for unique deployments Terraform deployments
+    github.com/project-slug: the-aeydr/terraform-deployment-keys-for-uniqueness
+spec:
+  type: documentation
+  lifecycle: experimental
